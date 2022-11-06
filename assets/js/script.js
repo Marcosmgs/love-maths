@@ -19,12 +19,11 @@ document.addEventListener("DOMContentLoaded", function() {
 
 })
 
+
 /**
  * The main game "loop", called when the cript is first loaded
  * and after the user's answers has been processed
  */
-
-
 function runGame(gameType) {
 
     // Creates two random numbers between 1 and 25
